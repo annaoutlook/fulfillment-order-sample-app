@@ -17,6 +17,7 @@
   "engines": {
     "node": ">= 12.16"
   },
+  
   "dependencies": {
     "@apollo/client": "^3.5.10",
     "@apollo/react-testing": "^4.0.0",
